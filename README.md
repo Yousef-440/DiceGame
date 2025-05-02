@@ -19,4 +19,4 @@ Players take turns rolling a dice, and the first to reach 100 points wins!
 
 ## Live Demo
 
-👉 [Play Live](https://your-username.github.io/dice-game/)
+https://yousef-440.github.io/DiceGame/
